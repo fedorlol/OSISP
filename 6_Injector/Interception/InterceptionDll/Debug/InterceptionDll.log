@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+detours.lib(detours.obj) : warning LNK4099: "detours.pdb" PDB не найден с "detours.lib(detours.obj)" или на "C:\Users\Fiodor\Documents\BSUIR\3\OSISP\6_Injector\Interception\Debug\detours.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+detours.lib(disasm.obj) : warning LNK4099: "detours.pdb" PDB не найден с "detours.lib(disasm.obj)" или на "C:\Users\Fiodor\Documents\BSUIR\3\OSISP\6_Injector\Interception\Debug\detours.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  InterceptionDll.vcxproj -> C:\Users\Fiodor\Documents\BSUIR\3\OSISP\6_Injector\Interception\Debug\InterceptionDll.dll

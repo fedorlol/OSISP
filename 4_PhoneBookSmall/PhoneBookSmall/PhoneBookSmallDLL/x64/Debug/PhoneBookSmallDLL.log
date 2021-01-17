@@ -1,0 +1,34 @@
+﻿  pch.cpp
+  dllmain.cpp
+  PhoneBookSmallDLL.cpp
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(118): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(178): warning C4311: приведение типов: усечение указателя из "PhonebookRecord *" в "int"
+  c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(175): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(45): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<PhonebookRecord *,std::allocator<_Ty>> Indexer<wchar_t [20]>::Search(TreeNode *,wchar_t [])"
+          with
+          [
+              _Ty=PhonebookRecord *
+          ]
+  c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(30): note: выполняется компиляция ссылки на экземпляр шаблон класс "Indexer<wchar_t [20]>"
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(178): warning C4302: приведение типов: усечение из "PhonebookRecord *" к "int"
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(178): warning C4312: приведение типов: преобразование из "int" в "wchar_t (*)[20]" большего размера
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(178): warning C4312: приведение типов: преобразование из "int" в "wchar_t (*)[5]" большего размера
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(144): warning C4311: приведение типов: усечение указателя из "PhonebookRecord *" в "int"
+  c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(139): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(162): note: выполняется компиляция ссылки на экземпляр шаблон функции "TreeNode *Indexer<wchar_t [20]>::Insert(TreeNode *,PhonebookRecord *)"
+  c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(159): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(30): note: выполняется компиляция ссылки на экземпляр шаблон функции "Indexer<wchar_t [20]>::Indexer(std::vector<PhonebookRecord *,std::allocator<_Ty>>,int)"
+          with
+          [
+              _Ty=PhonebookRecord *
+          ]
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(144): warning C4302: приведение типов: усечение из "PhonebookRecord *" к "int"
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(144): warning C4312: приведение типов: преобразование из "int" в "wchar_t (*)[20]" большего размера
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(145): warning C4311: приведение типов: усечение указателя из "PhonebookRecord *" в "int"
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(145): warning C4302: приведение типов: усечение из "PhonebookRecord *" к "int"
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(145): warning C4312: приведение типов: преобразование из "int" в "wchar_t (*)[20]" большего размера
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(144): warning C4312: приведение типов: преобразование из "int" в "wchar_t (*)[5]" большего размера
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmalldll\phonebooksmalldll.cpp(145): warning C4312: приведение типов: преобразование из "int" в "wchar_t (*)[5]" большего размера
+  Создание кода...
+     Создается библиотека C:\Users\Fiodor\Documents\BSUIR\3\OSISP\4_PhoneBookSmall\PhoneBookSmall\x64\Debug\PhoneBookSmallDLL.lib и объект C:\Users\Fiodor\Documents\BSUIR\3\OSISP\4_PhoneBookSmall\PhoneBookSmall\x64\Debug\PhoneBookSmallDLL.exp
+  PhoneBookSmallDLL.vcxproj -> C:\Users\Fiodor\Documents\BSUIR\3\OSISP\4_PhoneBookSmall\PhoneBookSmall\x64\Debug\PhoneBookSmallDLL.dll

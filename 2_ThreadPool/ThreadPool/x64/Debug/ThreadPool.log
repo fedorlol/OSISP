@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\fiodor\desktop\threadpoolv2\threadpool\main.cpp(94): warning C4101: e: неиспользованная локальная переменная
+c:\users\fiodor\desktop\threadpoolv2\threadpool\main.cpp(104): warning C4101: e: неиспользованная локальная переменная
+c:\users\fiodor\desktop\threadpoolv2\threadpool\main.cpp(114): warning C4101: e: неиспользованная локальная переменная
+c:\users\fiodor\desktop\threadpoolv2\threadpool\main.cpp(124): warning C4101: e: неиспользованная локальная переменная
+c:\users\fiodor\desktop\threadpoolv2\threadpool\main.cpp(135): warning C4101: e: неиспользованная локальная переменная
+  ThreadPool.cpp
+  Создание кода...
+  ThreadPool.vcxproj -> C:\Users\Fiodor\Desktop\ThreadPoolV2\x64\Debug\ThreadPool.exe

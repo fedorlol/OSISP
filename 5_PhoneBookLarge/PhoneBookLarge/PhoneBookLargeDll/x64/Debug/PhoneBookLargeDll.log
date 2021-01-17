@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  PhoneBookLargeDll.cpp
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklargedll\phonebooklargedll.cpp(112): warning C4311: приведение типов: усечение указателя из "HANDLE" в "DWORD"
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklargedll\phonebooklargedll.cpp(112): warning C4302: приведение типов: усечение из "HANDLE" к "DWORD"
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklargedll\phonebooklargedll.cpp(112): warning C4312: приведение типов: преобразование из "unsigned long" в "BYTE *" большего размера
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklargedll\phonebooklargedll.cpp(151): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+     Создается библиотека C:\Users\Fiodor\Documents\BSUIR\3\OSISP\5_PhoneBookLarge\PhoneBookLarge\x64\Debug\PhoneBookLargeDll.lib и объект C:\Users\Fiodor\Documents\BSUIR\3\OSISP\5_PhoneBookLarge\PhoneBookLarge\x64\Debug\PhoneBookLargeDll.exp
+  PhoneBookLargeDll.vcxproj -> C:\Users\Fiodor\Documents\BSUIR\3\OSISP\5_PhoneBookLarge\PhoneBookLarge\x64\Debug\PhoneBookLargeDll.dll

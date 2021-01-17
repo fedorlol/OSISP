@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\fiodor\documents\bsuir\3\osisp\paintv3\paintv2\source.cpp(734): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\fiodor\documents\bsuir\3\osisp\paintv3\paintv2\source.cpp(769): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\fiodor\documents\bsuir\3\osisp\paintv3\paintv2\source.cpp(831): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\fiodor\documents\bsuir\3\osisp\paintv3\paintv2\source.cpp(855): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\fiodor\documents\bsuir\3\osisp\paintv3\paintv2\source.cpp(1548): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+c:\users\fiodor\documents\bsuir\3\osisp\paintv3\paintv2\source.cpp(1549): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  PaintV2.vcxproj -> C:\Users\Fiodor\Documents\BSUIR\3\OSISP\PaintV3\Debug\PaintV2.exe

@@ -1,0 +1,5 @@
+﻿  PhoneBookSmall.cpp
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmall\phonebooksmall.cpp(100): warning C4311: приведение типов: усечение указателя из "HMENU" в "int"
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmall\phonebooksmall.cpp(100): warning C4302: приведение типов: усечение из "HMENU" к "int"
+c:\users\fiodor\documents\bsuir\3\osisp\4_phonebooksmall\phonebooksmall\phonebooksmall\phonebooksmall.cpp(203): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  PhoneBookSmall.vcxproj -> C:\Users\Fiodor\Documents\BSUIR\3\OSISP\4_PhoneBookSmall\PhoneBookSmall\x64\Debug\PhoneBookSmall.exe

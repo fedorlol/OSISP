@@ -1,0 +1,8 @@
+﻿  PhoneBookLarge.cpp
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklarge\phonebooklarge.cpp(106): warning C4311: приведение типов: усечение указателя из "HMENU" в "int"
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklarge\phonebooklarge.cpp(106): warning C4302: приведение типов: усечение из "HMENU" к "int"
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklarge\phonebooklarge.cpp(111): warning C4311: приведение типов: усечение указателя из "HMENU" в "int"
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklarge\phonebooklarge.cpp(111): warning C4302: приведение типов: усечение из "HMENU" к "int"
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklarge\phonebooklarge.cpp(119): warning C4311: приведение типов: усечение указателя из "HMENU" в "int"
+c:\users\fiodor\documents\bsuir\3\osisp\5_phonebooklarge\phonebooklarge\phonebooklarge\phonebooklarge.cpp(119): warning C4302: приведение типов: усечение из "HMENU" к "int"
+  PhoneBookLarge.vcxproj -> C:\Users\Fiodor\Documents\BSUIR\3\OSISP\5_PhoneBookLarge\PhoneBookLarge\x64\Debug\PhoneBookLarge.exe
